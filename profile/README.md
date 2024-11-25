@@ -10,6 +10,6 @@ Only our team has access to the materials. If you have any questions, write to u
 
 # Links
 
-Discord: [link](https://discord.gg/M5QZ3dwC63)
+**Discord**: [link](https://discord.gg/M5QZ3dwC63)
 
-VRChat: [link](https://vrc.group/MUSIC.3773)
+**VRChat**: [link](https://vrc.group/MUSIC.3773)
