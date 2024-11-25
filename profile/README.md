@@ -7,3 +7,7 @@
 This repository is used to store closed Metronome Bar projects.
 
 Only our team has access to the materials. If you have any questions, write to us on Discord.
+
+## 🔧 Useful repositories
+
+1. 📚 Our knowledge base: [Github](https://github.com/metronome-bar/Knowledge-Base)
