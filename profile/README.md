@@ -7,9 +7,3 @@
 This repository is used to store closed Metronome Bar projects.
 
 Only our team has access to the materials. If you have any questions, write to us on Discord.
-
-# Links
-
-**Discord**: [link](https://discord.gg/M5QZ3dwC63)
-
-**VRChat**: [link](https://vrc.group/MUSIC.3773)
